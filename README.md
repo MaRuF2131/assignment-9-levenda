@@ -1,6 +1,6 @@
 # App home
-live link:
-devoloper:
+live link: https://genuine-bublanina-25df85.netlify.app
+devoloper: MD. Maruf Ahmmed
 
 Job Tracker is a simple application designed to help users manage and track their job applications efficiently. It allows users to organize job details, track application statuses, and stay on top of their job search process.
 
