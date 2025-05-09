@@ -1,0 +1,258 @@
+[
+  {
+    "id": "app001",
+    "name": "Free Fire MAX",
+    "developer": "Garena International IIn-app purchases.",
+    "thumbnail": "https://i.ibb.co.com/tPqjmfJX/54f31449f5f91cf0cc223cc635cd5952jpg-1655955051259-1655955067513.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en",
+    "category": "Games",
+    "viue": "26.7M reviews",
+    "rating": 4.8,
+    "install": "install",
+    "description": "Programming Hero is a fun and interactive way to learn programming.",
+    "features": ["Interactive coding lessons", "Real-world projects", "Gamified learning experience"],
+    "reviews": [
+      { "user": "coder_nadia", "rating": 5, "comment": "Best app for beginners!" }
+    ]
+  },
+  {
+    "id": "app002",
+    "name": "Ivy Contains adsIn-app purchases",
+    "developer": "Subway Princess Runner",
+    "thumbnail": "https://i.ibb.co.com/G3P5k62F/unnamed.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en",
+    "category": "Games",
+    "viue": "1.84M reviews",
+    "rating": 4.6,
+    "install": "install",
+    "description": "Your personal fitness assistant.",
+    "features": ["Custom workouts", "Nutrition tracking", "Progress tracking"],
+    "reviews": [
+      { "user": "fit_freak", "rating": 4, "comment": "Helps me stay on track." }
+    ]
+  },
+  {
+    "id": "app003",
+    "name": "Street Racing HD   purchases",
+    "developer": "Contains adsIn-app purchases.",
+    "thumbnail": "https://i.ibb.co.com/tTStj0G7/unnamed.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.ivy.streetracing.hd&hl=en",
+    "category": "Games",
+    "viue": "171K reviews",
+    "rating": 4.5,
+    "install": "install",
+    "description": "Plan and enjoy your trips easily.",
+    "features": ["Flight booking", "Itinerary planner", "Weather tools"],
+    "reviews": [
+      { "user": "globetrotter007", "rating": 5, "comment": "Super helpful app!" }
+    ]
+  },
+  {
+    "id": "app004",
+    "name": "Clash of Clans  . purchases",
+    "developer": "In-app purchases.",
+    "thumbnail": "https://i.ibb.co.com/Y74WF537/unnamed-1.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+    "category": "Games",
+    "viue": "4.5star 61.7M reviews",
+    "rating": 4.7,
+    "install": "install",
+    "description": "Track expenses and save better.",
+    "features": ["Expense categories", "Budget alerts", "Savings goals"],
+    "reviews": [
+      { "user": "money_minded", "rating": 4, "comment": "Great budgeting tool!" }
+    ]
+  },
+  {
+    "id": "app005",
+    "name": "productivity-apps",
+    "developer": "CalmCore Studios",
+    "thumbnail": "https://i.ibb.co.com/hRL6vvB4/download-1.jpg",
+    "banner": "https://www.mobileappdaily.com/products/best-productivity-apps",
+    "category": "Preductivity Apps",
+    "viue": "76.7M reviews",
+    "rating": 4.9,
+    "install": "install",
+    "description": "Relax and recharge with meditation.",
+    "features": ["Guided meditation", "Sleep sounds", "Stress relief"],
+    "reviews": [
+      { "user": "relaxed_ravi", "rating": 5, "comment": "Helps me sleep well!" }
+    ]
+  },
+  {
+    "id": "app006",
+    "name": "cloudwards",
+    "developer": "ClearDesk Inc.",
+    "thumbnail": "https://i.ibb.co.com/d0Z7ygkG/art-6820372-640.jpg",
+    "banner": "https://www.cloudwards.net/best-productivity-apps/",
+    "category": "Preductivity Apps", 
+    "viue": "336.7M reviews",
+    "rating": 4.2,
+    "install": "install",
+    "description": "Take notes easily, anywhere.",
+    "features": ["Markdown", "Cloud sync", "Reminders"],
+    "reviews": [
+      { "user": "jotmaster", "rating": 4, "comment": "Simple and useful." }
+    ]
+  },
+  {
+    "id": "app007",
+    "name": "DPM",
+    "developer": "LearnFast Ltd.",
+    "thumbnail": "https://i.ibb.co.com/svfM2rvJ/download-2.jpg",
+    "banner": "https://thedigitalprojectmanager.com/tools/best-productivity-tools/",
+    "category": "Preductivity Apps",
+    "viue": "2.7M reviews",
+    "rating": 4.4,
+    "install": "install",
+    "description": "Homework help by snapping a photo.",
+    "features": ["Photo to answer", "Expert help", "Step-by-step"],
+    "reviews": [
+      { "user": "mathgenius92", "rating": 5, "comment": "Lifesaver app!" }
+    ]
+  },
+  {
+    "id": "app008",
+    "name": "By Jessica Lau ·",
+    "developer": " December 2, 2025.",
+    "thumbnail": "https://i.ibb.co.com/Qv22rLmF/download-3.jpg",
+    "banner": "https://zapier.com/blog/best-productivity-apps/",
+    "category": "Preductivity Apps",
+    "viue": "260.7M reviews",
+    "rating": 4.8,
+    "install": "install",
+    "description": "Discover and share music socially.",
+    "features": ["Music recommendations", "Offline play", "Social sharing"],
+    "reviews": [
+      { "user": "beat_hunter", "rating": 5, "comment": "Love the playlists!" }
+    ]
+  },
+  {
+    "id": "app009",
+    "name": "Starbucks",
+    "developer": "Starbucks Coffee Company.",
+    "thumbnail": "https://i.ibb.co.com/hFnQ2Npd/unnamed-1.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.duolingo",
+    "category": "Food & Drink",
+    "viue": "1.35M reviews",
+    "rating": 4.3,
+    "install": "install",
+    "description": "Fast and easy cooking recipes.",
+    "features": ["Step guides", "Video recipes", "Smart search"],
+    "reviews": [
+      { "user": "chef_anya", "rating": 4, "comment": "Very helpful in kitchen!" }
+    ]
+  },
+  {
+    "id": "app010",
+    "name": "Google",
+    "developer": "Google Future Tech",
+    "thumbnail": "https://i.ibb.co.com/FLzZ58hQ/google-1618520-960-720.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.zenaura.app",
+    "category": "Lifestyle",
+    "viue": "2106.7M reviews",
+    "rating": 4.6,
+    "install": "install",
+    "description": "Track your carbon footprint.",
+    "features": ["Eco tips", "Sustainability goals", "Carbon calculator"],
+    "reviews": [
+      { "user": "eco_warrior", "rating": 5, "comment": "Great for climate awareness!" }
+    ]
+  },
+  {
+    "id": "app011",
+    "name": "Panda.com",
+    "developer": "LingoSoft",
+    "thumbnail": "https://i.ibb.co.com/3mbJRJbv/large-george.webp",
+    "banner": "https://tinypng.com/",
+    "category": "Education",
+    "viue": "6.7M reviews",
+    "rating": 4.5,
+    "install": "install",
+    "description": "Learn languages with short stories and quizzes.",
+    "features": ["Interactive dialogues", "Grammar games", "Daily goals"],
+    "reviews": [
+      { "user": "polyglot101", "rating": 5, "comment": "Fun and addictive!" }
+    ]
+  },
+  {
+    "id": "app012",
+    "name": "Build your anything",
+    "developer": "DesignNest",
+    "thumbnail": "https://i.ibb.co.com/0pYgZVyR/download.jpg",
+    "banner": "https://www.sketchup.com/en",
+    "category": "Art & Design",
+    "viue": "26.7M reviews",
+    "rating": 4.3,
+    "install": "install",
+    "description": "Photo editing made creative and easy.",
+    "features": ["Filters & effects", "Layer tools", "Drawing pad"],
+    "reviews": [
+      { "user": "artlover", "rating": 4, "comment": "Great for quick edits." }
+    ]
+  },
+  {
+    "id": "app013",
+    "name": "ChatGPT",
+    "developer": "In-app purchases.",
+    "thumbnail": "https://i.ibb.co.com/WWX81B5j/unnamed-2.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
+    "category": "Trending Apps",
+    "viue": "15.7M reviews",
+    "rating": 4.9,
+    "install": "install",
+    "description": "A collection of trending mini-games in one place.",
+    "features": ["Multiplayer", "Daily challenges", "Leaderboard"],
+    "reviews": [
+      { "user": "gamerx", "rating": 5, "comment": "Endless fun!" }
+    ]
+  },
+  {
+    "id": "app014",
+    "name": "TikTok",
+    "developer": "Contains adsIn-app purchases.",
+    "thumbnail": "https://i.ibb.co.com/NnWgvXJf/unnamed-3.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+    "category": "Trending Apps",
+    "viue": "66M reviews",
+    "rating": 4.6,
+    "install": "install",
+    "description": "Record, edit, and enhance audio quickly.",
+    "features": ["Noise filter", "Voice changer", "Multi-track support"],
+    "reviews": [
+      { "user": "podcaster", "rating": 4, "comment": "Great for recording on the go!" }
+    ]
+  },
+  {
+    "id": "app015",
+    "name": "Instagram",
+    "developer": "Contains adsIn-app purchases",
+    "thumbnail": "https://i.ibb.co.com/C3hdySNS/download.jpg",
+    "banner": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "category": "Trending Apps",
+    "viue": "162M reviews",
+    "rating": 4.5,
+    "install": "install",
+    "description": "Track your pet's health and schedule.",
+    "features": ["Vaccine reminders", "Food log", "Vet visits"],
+    "reviews": [
+      { "user": "petparent", "rating": 5, "comment": "Helps me take care of my dog!" }
+    ]
+  },
+  {
+    "id": "app016",
+    "name": "Spotify: Music and",
+    "developer": "Contains adsIn-app purchases.",
+    "thumbnail": "https://i.ibb.co.com/PvyMc9FH/unnamed-5.webp",
+    "banner": "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "category": "Trending Apps",
+    "viue": "33.3M reviews",
+    "rating": 4.4,
+    "install": "install",
+    "description": "Discover and read books tailored to your taste.",
+    "features": ["Smart recommendations", "Offline reading", "Highlight & notes"],
+    "reviews": [
+      { "user": "bookworm88", "rating": 5, "comment": "Best reading app ever!" }
+    ]
+  }
+]
